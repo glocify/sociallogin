@@ -1,7 +1,7 @@
 {
-  "name": "superlogin-demo",
+  "name": "sociallogin",
   "version": "0.2.0",
-  "description": "A sample single page app using SuperLogin, AngularJS, and PouchDB",
+  "description": "A sample single page app using sociallogin, AngularJS",
   "scripts": {
     "postinstall": "node ./node_modules/bower/bin/bower install",
     "start": "node ./server/bin/www"
@@ -19,9 +19,9 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/colinskow/superlogin-demo.git"
+    "url": ""
   },
-  "author": "Colin Skow",
+  "author": "Ganesh",
   "license": "MIT",
   "engines": {
     "node": ">4.0.0"
